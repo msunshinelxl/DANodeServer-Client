@@ -1,0 +1,119 @@
+2015-09-06 10:52:07,397 - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+ 2015-09-06 10:52:07,398 - Client environment:host.name=192.168.1.114
+ 2015-09-06 10:52:07,398 - Client environment:java.version=1.8.0_40
+ 2015-09-06 10:52:07,398 - Client environment:java.vendor=Oracle Corporation
+ 2015-09-06 10:52:07,398 - Client environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre
+ 2015-09-06 10:52:07,398 - Client environment:java.class.path=/Users/xinlongli/Documents/workspace/zookeeperTest1/bin:/Users/xinlongli/Documents/workspace/zookeeperTest1/zookeeper-3.4.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-api-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-log4j12-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/log4j-1.2.17.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-codec-1.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-io-2.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-logging-1.1.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/hamcrest-core-1.3.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-core-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-mapper-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jline-0.9.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/junit-3.8.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/libthrift-0.9.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/netty-all-4.0.30.Final.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-jdk14-1.5.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/ini4j-0.5.4.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/storage.iconvert-1.0.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-pool2-2.4.2.jar
+ 2015-09-06 10:52:07,398 - Client environment:java.library.path=/Users/xinlongli/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+ 2015-09-06 10:52:07,398 - Client environment:java.io.tmpdir=/var/folders/08/7k8pt43x6kx92t2stzymm3900000gn/T/
+ 2015-09-06 10:52:07,398 - Client environment:java.compiler=<NA>
+ 2015-09-06 10:52:07,399 - Client environment:os.name=Mac OS X
+ 2015-09-06 10:52:07,399 - Client environment:os.arch=x86_64
+ 2015-09-06 10:52:07,399 - Client environment:os.version=10.10.4
+ 2015-09-06 10:52:07,399 - Client environment:user.name=xinlongli
+ 2015-09-06 10:52:07,399 - Client environment:user.home=/Users/xinlongli
+ 2015-09-06 10:52:07,399 - Client environment:user.dir=/Users/xinlongli/Documents/workspace/zookeeperTest1
+ 2015-09-06 10:52:07,400 - Initiating client connection, connectString=101.200.77.14:2181 sessionTimeout=3000 watcher=Thread[Thread-0,5,main]
+ 2015-09-06 10:52:07,457 - Opening socket connection to server 101.200.77.14/101.200.77.14:2181. Will not attempt to authenticate using SASL (unknown error)
+ 2015-09-06 11:09:02,105 - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+ 2015-09-06 11:09:02,108 - Client environment:host.name=192.168.1.114
+ 2015-09-06 11:09:02,108 - Client environment:java.version=1.8.0_40
+ 2015-09-06 11:09:02,108 - Client environment:java.vendor=Oracle Corporation
+ 2015-09-06 11:09:02,108 - Client environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre
+ 2015-09-06 11:09:02,108 - Client environment:java.class.path=/Users/xinlongli/Documents/workspace/zookeeperTest1/bin:/Users/xinlongli/Documents/workspace/zookeeperTest1/zookeeper-3.4.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-api-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-log4j12-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/log4j-1.2.17.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-codec-1.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-io-2.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-logging-1.1.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/hamcrest-core-1.3.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-core-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-mapper-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jline-0.9.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/junit-3.8.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/libthrift-0.9.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/netty-all-4.0.30.Final.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-jdk14-1.5.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/ini4j-0.5.4.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/storage.iconvert-1.0.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-pool2-2.4.2.jar
+ 2015-09-06 11:09:02,110 - Client environment:java.library.path=/Users/xinlongli/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+ 2015-09-06 11:09:02,110 - Client environment:java.io.tmpdir=/var/folders/08/7k8pt43x6kx92t2stzymm3900000gn/T/
+ 2015-09-06 11:09:02,110 - Client environment:java.compiler=<NA>
+ 2015-09-06 11:09:02,110 - Client environment:os.name=Mac OS X
+ 2015-09-06 11:09:02,110 - Client environment:os.arch=x86_64
+ 2015-09-06 11:09:02,110 - Client environment:os.version=10.10.4
+ 2015-09-06 11:09:02,111 - Client environment:user.name=xinlongli
+ 2015-09-06 11:09:02,111 - Client environment:user.home=/Users/xinlongli
+ 2015-09-06 11:09:02,111 - Client environment:user.dir=/Users/xinlongli/Documents/workspace/zookeeperTest1
+ 2015-09-06 11:09:02,112 - Initiating client connection, connectString=101.200.77.14:2181 sessionTimeout=3000 watcher=Thread[Thread-0,5,main]
+ 2015-09-06 11:09:02,172 - Opening socket connection to server 101.200.77.14/101.200.77.14:2181. Will not attempt to authenticate using SASL (unknown error)
+ 2015-09-06 11:09:11,963 - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+ 2015-09-06 11:09:11,965 - Client environment:host.name=192.168.1.114
+ 2015-09-06 11:09:11,965 - Client environment:java.version=1.8.0_40
+ 2015-09-06 11:09:11,965 - Client environment:java.vendor=Oracle Corporation
+ 2015-09-06 11:09:11,965 - Client environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre
+ 2015-09-06 11:09:11,965 - Client environment:java.class.path=/Users/xinlongli/Documents/workspace/zookeeperTest1/bin:/Users/xinlongli/Documents/workspace/zookeeperTest1/zookeeper-3.4.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-api-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-log4j12-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/log4j-1.2.17.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-codec-1.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-io-2.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-logging-1.1.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/hamcrest-core-1.3.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-core-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-mapper-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jline-0.9.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/junit-3.8.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/libthrift-0.9.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/netty-all-4.0.30.Final.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-jdk14-1.5.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/ini4j-0.5.4.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/storage.iconvert-1.0.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-pool2-2.4.2.jar
+ 2015-09-06 11:09:11,965 - Client environment:java.library.path=/Users/xinlongli/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+ 2015-09-06 11:09:11,965 - Client environment:java.io.tmpdir=/var/folders/08/7k8pt43x6kx92t2stzymm3900000gn/T/
+ 2015-09-06 11:09:11,966 - Client environment:java.compiler=<NA>
+ 2015-09-06 11:09:11,966 - Client environment:os.name=Mac OS X
+ 2015-09-06 11:09:11,966 - Client environment:os.arch=x86_64
+ 2015-09-06 11:09:11,966 - Client environment:os.version=10.10.4
+ 2015-09-06 11:09:11,966 - Client environment:user.name=xinlongli
+ 2015-09-06 11:09:11,966 - Client environment:user.home=/Users/xinlongli
+ 2015-09-06 11:09:11,967 - Client environment:user.dir=/Users/xinlongli/Documents/workspace/zookeeperTest1
+ 2015-09-06 11:09:11,969 - Initiating client connection, connectString=101.200.77.14:2181 sessionTimeout=3000 watcher=Thread[Thread-0,5,main]
+ 2015-09-06 11:09:12,010 - Opening socket connection to server 101.200.77.14/101.200.77.14:2181. Will not attempt to authenticate using SASL (unknown error)
+ 2015-09-06 11:09:12,511 - Socket connection established to 101.200.77.14/101.200.77.14:2181, initiating session
+ 2015-09-06 11:09:12,576 - Session establishment complete on server 101.200.77.14/101.200.77.14:2181, sessionid = 0x4e86c64ab60184, negotiated timeout = 4000
+ 2015-09-06 11:09:40,909 - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+ 2015-09-06 11:09:40,910 - Client environment:host.name=192.168.1.114
+ 2015-09-06 11:09:40,911 - Client environment:java.version=1.8.0_40
+ 2015-09-06 11:09:40,911 - Client environment:java.vendor=Oracle Corporation
+ 2015-09-06 11:09:40,911 - Client environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre
+ 2015-09-06 11:09:40,911 - Client environment:java.class.path=/Users/xinlongli/Documents/workspace/zookeeperTest1/bin:/Users/xinlongli/Documents/workspace/zookeeperTest1/zookeeper-3.4.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-api-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-log4j12-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/log4j-1.2.17.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-codec-1.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-io-2.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-logging-1.1.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/hamcrest-core-1.3.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-core-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-mapper-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jline-0.9.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/junit-3.8.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/libthrift-0.9.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/netty-all-4.0.30.Final.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-jdk14-1.5.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/ini4j-0.5.4.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/storage.iconvert-1.0.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-pool2-2.4.2.jar
+ 2015-09-06 11:09:40,911 - Client environment:java.library.path=/Users/xinlongli/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+ 2015-09-06 11:09:40,911 - Client environment:java.io.tmpdir=/var/folders/08/7k8pt43x6kx92t2stzymm3900000gn/T/
+ 2015-09-06 11:09:40,912 - Client environment:java.compiler=<NA>
+ 2015-09-06 11:09:40,912 - Client environment:os.name=Mac OS X
+ 2015-09-06 11:09:40,912 - Client environment:os.arch=x86_64
+ 2015-09-06 11:09:40,912 - Client environment:os.version=10.10.4
+ 2015-09-06 11:09:40,912 - Client environment:user.name=xinlongli
+ 2015-09-06 11:09:40,912 - Client environment:user.home=/Users/xinlongli
+ 2015-09-06 11:09:40,912 - Client environment:user.dir=/Users/xinlongli/Documents/workspace/zookeeperTest1
+ 2015-09-06 11:09:40,913 - Initiating client connection, connectString=101.200.77.14:2181 sessionTimeout=3000 watcher=Thread[Thread-0,5,main]
+ 2015-09-06 11:09:40,947 - Opening socket connection to server 101.200.77.14/101.200.77.14:2181. Will not attempt to authenticate using SASL (unknown error)
+ 2015-09-06 11:09:43,538 - Socket connection established to 101.200.77.14/101.200.77.14:2181, initiating session
+ 2015-09-06 11:09:45,815 - Session establishment complete on server 101.200.77.14/101.200.77.14:2181, sessionid = 0x4e86c64ab60185, negotiated timeout = 4000
+ 2015-09-06 11:12:54,838 - Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+ 2015-09-06 11:12:54,840 - Client environment:host.name=192.168.1.114
+ 2015-09-06 11:12:54,840 - Client environment:java.version=1.8.0_40
+ 2015-09-06 11:12:54,841 - Client environment:java.vendor=Oracle Corporation
+ 2015-09-06 11:12:54,841 - Client environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre
+ 2015-09-06 11:12:54,841 - Client environment:java.class.path=/Users/xinlongli/Documents/workspace/zookeeperTest1/bin:/Users/xinlongli/Documents/workspace/zookeeperTest1/zookeeper-3.4.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-api-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-log4j12-1.7.12.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/log4j-1.2.17.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-codec-1.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-io-2.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-logging-1.1.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/hamcrest-core-1.3.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-core-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jackson-mapper-asl-1.9.13.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/jline-0.9.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/junit-3.8.1.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/libthrift-0.9.2.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/netty-all-4.0.30.Final.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/slf4j-jdk14-1.5.6.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/ini4j-0.5.4.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/storage.iconvert-1.0.jar:/Users/xinlongli/Documents/workspace/zookeeperTest1/commons-pool2-2.4.2.jar
+ 2015-09-06 11:12:54,841 - Client environment:java.library.path=/Users/xinlongli/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+ 2015-09-06 11:12:54,841 - Client environment:java.io.tmpdir=/var/folders/08/7k8pt43x6kx92t2stzymm3900000gn/T/
+ 2015-09-06 11:12:54,841 - Client environment:java.compiler=<NA>
+ 2015-09-06 11:12:54,841 - Client environment:os.name=Mac OS X
+ 2015-09-06 11:12:54,841 - Client environment:os.arch=x86_64
+ 2015-09-06 11:12:54,841 - Client environment:os.version=10.10.4
+ 2015-09-06 11:12:54,842 - Client environment:user.name=xinlongli
+ 2015-09-06 11:12:54,842 - Client environment:user.home=/Users/xinlongli
+ 2015-09-06 11:12:54,842 - Client environment:user.dir=/Users/xinlongli/Documents/workspace/zookeeperTest1
+ 2015-09-06 11:12:54,843 - Initiating client connection, connectString=101.200.77.14:2181 sessionTimeout=3000 watcher=Thread[Thread-0,5,main]
+ 2015-09-06 11:12:54,879 - Opening socket connection to server 101.200.77.14/101.200.77.14:2181. Will not attempt to authenticate using SASL (unknown error)
+ 2015-09-06 11:12:55,536 - Socket connection established to 101.200.77.14/101.200.77.14:2181, initiating session
+ 2015-09-06 11:12:55,740 - Session establishment complete on server 101.200.77.14/101.200.77.14:2181, sessionid = 0x4e86c64ab60186, negotiated timeout = 4000
+ 2015-09-06 11:12:59,658 - Client session timed out, have not heard from server in 2669ms for sessionid 0x4e86c64ab60186, closing socket connection and attempting reconnect
+ 2015-09-06 11:13:00,929 - Opening socket connection to server 101.200.77.14/101.200.77.14:2181. Will not attempt to authenticate using SASL (unknown error)
+ 2015-09-06 11:13:00,943 - Socket connection established to 101.200.77.14/101.200.77.14:2181, initiating session
+ 2015-09-06 11:13:00,955 - Session establishment complete on server 101.200.77.14/101.200.77.14:2181, sessionid = 0x4e86c64ab60186, negotiated timeout = 4000
+ 2015-09-06 16:37:50,459 - Msg #4
+ 2015-09-06 16:38:14,267 - Msg #4
+ 2015-09-06 16:38:14,269 - error
+ 2015-09-06 16:38:37,223 - Msg #4
+ 2015-09-06 16:38:37,223 - error
+ 2015-09-06 16:41:50,110 - Msg #4
+ 2015-09-06 16:41:50,112 - error
+ 2015-09-06 17:21:49,335 - Msg #4
+ 2015-09-06 17:21:49,336 - error
+ 2015-09-06 17:28:46,962 - Msg #4
+ 2015-09-06 17:28:46,964 - error
+ 2015-09-06 17:29:02,875 - Msg #4
+ 2015-09-06 17:29:02,876 - error
+ 2015-09-06 17:29:19,836 - Msg #4
+ 2015-09-06 17:29:19,837 - error
+ 2015-09-06 17:30:16,618 - Msg #4
+ 2015-09-06 17:30:16,619 - error
+ 2015-09-06 17:34:49,132 - Msg #4
+ 2015-09-06 17:34:49,134 - error
+ 2015-09-06 17:36:00,333 - Msg #4
+ 2015-09-06 17:36:00,334 - error
+ 2015-09-06 17:42:32,631 - Msg #4
+ 2015-09-06 17:42:32,633 - error
+ 
